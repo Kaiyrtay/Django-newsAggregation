@@ -21,20 +21,20 @@ python --version
 **1.Clone the Repo**
 
 ```sh
-git clone https://github.com/Kaiyrtay/Django-WeatherApp.git
+git clone https://github.com/Kaiyrtay/Django-newsAggregation.git
 ```
 
 **2.Install Requirements**
 
 ```sh
-cd ~/Django-WeatherApp/weatherapp
+cd ~/Django-newsAggregation/newsAggregation
 pip install -r requirements.txt
 ```
 
 **3.Create .env**
 
 ```sh
-cd ~/Django-WeatherApp/weatherapp
+cd ~/Django-newsAggregation/newsAggregation
 touch .env
 ```
 
